@@ -23,3 +23,19 @@
   content: "|";
   padding-right: 0.3em;
 }
+
+.fire {
+  color: red;
+}
+
+.grass {
+  color: green;
+}
+
+.water {
+  color: blue;
+}
+
+.electric {
+  color: darkorange;
+}
